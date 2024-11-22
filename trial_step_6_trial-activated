@@ -2,7 +2,7 @@ https://my.bimcollab.com/verifyUser
 
 window.dataLayer = window.dataLayer || [];
 window.dataLayer.push({
-  event: 'trial_step_5_set-password',
+  event: 'trial_step_6_trial-activated',
   product: 'Zoom',
   email: 'test@test.nl',
   phone_number: '0612345678',
