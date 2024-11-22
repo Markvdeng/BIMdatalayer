@@ -1,0 +1,10 @@
+https://my.bimcollab.com/?loginflow=zoomtrial
+
+window.dataLayer = window.dataLayer || [];
+window.dataLayer.push({
+  event: 'trial_step_2_sign-up',
+  product: 'Zoom',
+  email: 'test@test.nl',
+  first_name: 'Mark',
+  last_name: 'van der Eng'
+});"
