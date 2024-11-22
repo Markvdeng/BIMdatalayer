@@ -4,5 +4,6 @@ window.dataLayer = window.dataLayer || [];
 window.dataLayer.push({
   event: 'trial_step_1_enter_email',
   product: 'Zoom',
-  email: 'test@test.nl'
+  email: 'test@test.nl',
+  user_id: '123466'
 });"
