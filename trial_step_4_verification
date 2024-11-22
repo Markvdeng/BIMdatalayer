@@ -1,24 +1,8 @@
-https://my.bimcollab.com/companyInfo
+https://my.bimcollab.com/verifyUser
 
 window.dataLayer = window.dataLayer || [];
 window.dataLayer.push({
   event: 'trial_step_4_verification',
-  product: 'Zoom',
-  email: 'test@test.nl',
-  phone_number: '0612345678',
-  first_name: 'Mark',
-  last_name: 'van der Eng',
-  company_name: 'Supreme SEA Solutions',
-  company_size: '2-5',
-  job_role: 'CEO',
-  country: 'NL'
-});"
-
-https://my.bimcollab.com/companyInfo
-
-window.dataLayer = window.dataLayer || [];
-window.dataLayer.push({
-  event: 'trial_step_3_company-info',
   product: 'Zoom',
   email: 'test@test.nl',
   phone_number: '0612345678',
