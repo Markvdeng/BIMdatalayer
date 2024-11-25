@@ -1,1 +1,15 @@
+https://www.bimcollab.com/en/?
 
+window.dataLayer = window.dataLayer || [];
+window.dataLayer.push({
+  event: 'webinar_subscribed',
+  webinar_title: 'BIM Coordinators Checklist',
+  email: 'test@test.nl',
+  first_name: 'Mark',
+  last_name: 'van der Eng',
+  company_name: 'Supreme SEA Solutions',
+  company_size: '2-5'
+  industry: 'Construction',
+  job_role: 'CEO',
+  country: 'NL'
+});"
