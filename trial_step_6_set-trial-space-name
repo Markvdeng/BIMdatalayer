@@ -3,7 +3,7 @@ https://my.bimcollab.com/setTrialSpaceName
 window.dataLayer = window.dataLayer || [];
 window.dataLayer.push({
   event: 'trial_step_6_trial-activated',
-  product: 'Zoom',
+  product: 'Nexus',
   trial_space_name: 'Amber'
   email: 'test@test.nl',
   phone_number: '0612345678',
