@@ -1,1 +1,14 @@
+https://www.bimcollab.com/en/resources/ebooks/...../
 
+window.dataLayer = window.dataLayer || [];
+window.dataLayer.push({
+  event: 'download_ebook',
+  ebook_title: 'BIM Coordinators Checklist',
+  email: 'test@test.nl',
+  first_name: 'Mark',
+  last_name: 'van der Eng',
+  company_name: 'Supreme SEA Solutions',
+  industry: 'Construction',
+  job_role: 'CEO',
+  country: 'NL'
+});"
