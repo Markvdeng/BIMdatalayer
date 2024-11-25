@@ -1,1 +1,9 @@
+https://my.bimcollab.com/login?loginflow=trialspace
 
+window.dataLayer = window.dataLayer || [];
+window.dataLayer.push({
+  event: 'trial_step_1_enter_email',
+  product: 'Nexus',
+  email: 'test@test.nl',
+  user_id: '123466'
+});"
