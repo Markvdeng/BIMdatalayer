@@ -1,4 +1,5 @@
-
+window.dataLayer = window.dataLayer || [];
+window.dataLayer.push({
   event: "productSelection",
   url_passthrough: false,
   ads_data_redaction: false,
