@@ -1,1 +1,19 @@
 
+  event: "productSelection",
+  url_passthrough: false,
+  ads_data_redaction: false,
+  ecommerce: {
+    currency: "EUR",
+    value: 1440,
+    tax: null,
+    items: [
+      {
+        item_category: "twin",
+        item_category2: "yearly",
+        item_name: "twin-essential",
+        quantity: 1,
+        price: 1440
+      }
+    ]
+  }
+}
