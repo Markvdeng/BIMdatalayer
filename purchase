@@ -1,1 +1,31 @@
+// /order-completed
 
+window.dataLayer = window.dataLayer || [];
+window.dataLayer.push({
+  event: 'purchase',
+  email: 'example@mail.com',
+  new_customer: 'true', //true or false
+  ecommerce: {
+    currency: '%%Currency%%',
+    value: %%Total price%%,
+    tax: %%Total tax%%,
+    transaction_id: %%ID%%,
+  items: [{
+      item_name: '%%item 1%%',
+      price: '%%price%%',
+      item_category: '%%product type%%',
+      quantity: '%%amount%%'
+    },{
+      item_name: '%%item 2%%',
+      price: '%%price2%%',
+      item_category: '%%product type 2%%',
+      quantity: '%%amount2%%'
+    },{
+      item_name: '%%item 3%%',
+      price: '%%price3%%',
+      item_category: '%%product type 3%%',
+      quantity: '%%amount3%%'
+    }]
+ 
+  }
+});
